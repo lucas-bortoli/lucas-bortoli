@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 Desenvolvedor TypeScript apaixonado por criar soluções para problemas reais ou divertidos. Minhas ferramentas favoritas incluem Node.js, HTML5 e React. Fascinado por hardware emulado e fantasy consoles. Amante de HTML5, React e Electron. Explorando o ecossistema Deno e a biblioteca Kysely. Atualmente aprendendo a framework Flutter.
 
 Técnico em Desenvolvimento de Sistemas formado em 2022 e cursando Engenharia de Software no 4° semestre na UniSENAI. 
